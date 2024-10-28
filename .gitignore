@@ -1,0 +1,7 @@
+# Ignore environment variables
+.env
+
+# Ignore Visual Studio Code configurations
+.vscode/launch.json
+
+# Ignore Python scripts
